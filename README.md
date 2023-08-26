@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Apt-yaya
-- 👀 I’m interested in Automation
-- 🌱 I’m currently learning Python
+- 👋 Hi, I’m @alex Markland 
+- 👀 I’m interested in Game Development 
+- 🌱 I’m currently learning C, Python, Java, C++ 
 - 📫 How to reach me alexr@marklandfamily.com 
 
 <!---
